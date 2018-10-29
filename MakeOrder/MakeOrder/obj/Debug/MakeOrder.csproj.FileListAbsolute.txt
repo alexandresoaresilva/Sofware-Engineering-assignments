@@ -1,0 +1,7 @@
+E:\code\GitHub\Sofware-Engineering-assingments\MakeOrder\MakeOrder\bin\Debug\MakeOrder.exe.config
+E:\code\GitHub\Sofware-Engineering-assingments\MakeOrder\MakeOrder\bin\Debug\MakeOrder.exe
+E:\code\GitHub\Sofware-Engineering-assingments\MakeOrder\MakeOrder\bin\Debug\MakeOrder.pdb
+E:\code\GitHub\Sofware-Engineering-assingments\MakeOrder\MakeOrder\obj\Debug\MakeOrder.csprojAssemblyReference.cache
+E:\code\GitHub\Sofware-Engineering-assingments\MakeOrder\MakeOrder\obj\Debug\MakeOrder.csproj.CoreCompileInputs.cache
+E:\code\GitHub\Sofware-Engineering-assingments\MakeOrder\MakeOrder\obj\Debug\MakeOrder.exe
+E:\code\GitHub\Sofware-Engineering-assingments\MakeOrder\MakeOrder\obj\Debug\MakeOrder.pdb
