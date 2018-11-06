@@ -1,3 +1,3 @@
 # Sofware-Engineering-assignments
 
-SE assingments with a little C# practice. The projects are implemented using Visual Studio. They generally have ill defined specs, so I apologize if the programs are tad confusing.
+SE assignments (Texas Tech) with a little C# practice. The projects are implemented using Visual Studio. They generally have ill defined specs, so I apologize if the programs are tad confusing.
